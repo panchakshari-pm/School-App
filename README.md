@@ -1,6 +1,6 @@
 # school-management
 A minimal school management app built with Vue Cli(V2.5xx) and Vue material
-NOTE: No Vuex used.
+NOTE: No backend and Vuex used.
 
 > A Vue.js project
 
